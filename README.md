@@ -9,6 +9,10 @@ Vue 3 in Vite.
 
 [Pinia官网](https://pinia.vuejs.org/zh/)
 
+![登录页](https://github.com/fengsh998/adminPlatform/blob/main/description/login.png)
+
+![平台](https://github.com/fengsh998/adminPlatform/blob/main/description/pc.jpg)
+
 
 ## Customize configuration
 
